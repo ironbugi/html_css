@@ -1,0 +1,17 @@
+/* Define the style for the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+/* Define the style for the h1 element */
+h1 {
+    color: white;
+    text-align: center;
+}
+
+/* Define the style for the p element */
+p {
+    color: black;
+    text-indent: 20px;
+}
